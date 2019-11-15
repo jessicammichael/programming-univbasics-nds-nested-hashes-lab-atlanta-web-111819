@@ -21,6 +21,9 @@ def literal_aoh
 end
 
 def aoh_lookup(aoh, row, key)
+  infinite_jest[0][:name]
+  infinite_jest[1][:name]= "Joelle Van Dyne"
+  infinite_jest[1][:occupation]
 end
 
 def aoh_update(aoh, row, key, new_value)
